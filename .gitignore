@@ -17,4 +17,7 @@ jdauphant.nginx
 .molecule
 .cache
 .pytest_cache
-
+credentials.json
+google_compute_engine.pub
+google_compute_engine
+secrets.tar
